@@ -1,4 +1,10 @@
 
+Youtube_T0_Gif Converter :- 
+
+In search Bar :-
+Please Type the Song Name , You want to Listen To , then select the song from results , watch the song and enter the start time and duration for which you want a gif to be created . 
+
+
 ####Pre-requisites
 * Node.Js 6+
 * FFMPEG installed ([Ubuntu Installation Guide](http://tipsonubuntu.com/2016/11/02/install-ffmpeg-3-2-via-ppa-ubuntu-16-04))
